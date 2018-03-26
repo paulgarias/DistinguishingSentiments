@@ -4,5 +4,5 @@
 
 [Resolute Data Science LLC account as PlotBot](https://twitter.com/ResoluteDataSci/with_replies)
 
-![Requests.png]("Requests.png")
-![Responses.png]("Responses.png")
+![Requests.png]("./RequestTweets.png")
+![Responses.png]("./Responses.png")
