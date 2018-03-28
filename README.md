@@ -19,7 +19,10 @@ Example command:
   
 Below are pictures of some alreay produced cases.  
   
+    
+The PlotBot is available now on Heroku, and should be available for tweeting and extracting analysis.
 
+  
 ![Requests.png](RequestTweets.png) 
   
   
